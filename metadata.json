@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Cross Stitch Generator - Wedding Edition",
+  "description": "Professional multi-page cross-stitch pattern generator with authentic DMC thread palette matching, heirloom sizing, and commercial PDF charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
